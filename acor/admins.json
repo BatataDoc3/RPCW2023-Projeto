@@ -1,0 +1,11 @@
+[
+  {
+    "username": "admin",
+    "firstname": "admin",
+    "lastname": "admin",
+    "password": "$2b$10$4W0fjY/c21mZkE3cwdmDCOxS4kP/TI3J7KgyerhTlObeCK9fhmHea",
+    "email": "admin@acorthemis.com",
+    "registeredOn": "2023-06-28",
+    "role": "ADMIN"
+  }
+]
